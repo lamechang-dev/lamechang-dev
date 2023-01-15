@@ -1,5 +1,8 @@
-### Hi I'm lamechang 👋
-Hello, I’m Front-End Focused Software Enginner based in Ishikawa, Japan!
+### Hi I'm <a target="_blank" href="https://lamechang-dev.vercel.app/">lamechang</a> 👋
+<p>
+  Hello, I’m Front-End Focused Software Enginner based in Ishikawa, Japan!<br> 
+  Currently working For <a href="https://www.tunecore.co.jp/">TuneCore Japan</a> as Frontend Engineer.
+</p>
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=lamechang-dev&theme=react" />
