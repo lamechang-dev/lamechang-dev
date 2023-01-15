@@ -5,8 +5,8 @@
 </p>
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=lamechang-dev&theme=react" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamechang-dev&layout=compact&theme=react&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lamechang-dev&theme=react" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lamechang-dev&layout=compact&theme=react&show_icons=ture" />
 </p>
 
 ## Language
