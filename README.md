@@ -1,4 +1,4 @@
-### Hi I'm <a target="_blank" href="https://lamechang-dev.vercel.app/">lamechang</a> 👋
+### Hi I'm <a href="https://lamechang-dev.vercel.app/">lamechang</a> 👋
 <p>
   Hello, I’m Front-End Focused Software Enginner based in Ishikawa, Japan!<br> 
   Currently working For <a href="https://www.tunecore.co.jp/">TuneCore Japan</a> as Frontend Engineer.
