@@ -1,6 +1,6 @@
 ### Hi I'm lamechang 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={lamechang-dev}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamechang-dev
 )](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
