@@ -1,7 +1,11 @@
 ### Hi I'm lamechang 👋
+Hello, I’m Front-End Focused Software Enginner based in Ishikawa, Japan!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamechang-dev
-)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=lamechang-dev&theme=react" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamechang-dev&layout=compact&theme=react&show_icons=ture" />
+</p>
+
 
 <!--
 **lamechang-dev/lamechang-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
