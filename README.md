@@ -1,6 +1,6 @@
 ### Hi I'm <a href="https://lamechang-dev.vercel.app/">lamechang</a> 👋
 <p>
-  Hello, I’m Front-End Focused Software Enginner based in Ishikawa, Japan!<br> 
+  Hello, I’m Front-End Focused Software Enginner based in Tokyo, Japan!<br> 
   Currently working for <a href="https://yoii.jp/">Yoii</a> as Frontend Engineer.
 </p>
 
